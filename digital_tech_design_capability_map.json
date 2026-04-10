@@ -1,0 +1,89 @@
+{
+  "description": "Digital Technologies capability progression map — Design & Environment Mode.",
+  "subject": "Digital Technologies",
+  "curriculum": "ACARA v9",
+  "levels": {
+    "F": {
+      "label": "Foundation",
+      "standards": [
+        { "code": "AC9TDIFP01", "title": "Identify personal data", "description": "Identify some data that is personal and owned by them", "capability_goal": "Students identify some data that is personal and owned by them.", "sub_strand": "privacy_security", "level_key": "F" }
+      ]
+    },
+    "1-2": {
+      "label": "Years 1-2",
+      "standards": [
+        { "code": "AC9TDI2P01", "title": "Investigate problems for users", "description": "Investigate simple problems for known users that can be solved with digital systems", "capability_goal": "Students investigate simple problems for known users that can be solved with digital systems.", "sub_strand": "investigating_defining", "level_key": "1-2" },
+        { "code": "AC9TDI2P03", "title": "Discuss existing digital systems", "description": "Discuss how existing digital systems satisfy identified needs for known users", "capability_goal": "Students discuss how existing digital systems satisfy identified needs for known users.", "sub_strand": "evaluating", "level_key": "1-2" },
+        { "code": "AC9TDI2P04", "title": "Create and communicate content", "description": "Use the basic features of common digital tools to create, locate and communicate content", "capability_goal": "Students use basic features of digital tools to create, locate and communicate content.", "sub_strand": "collaborating_managing", "level_key": "1-2" },
+        { "code": "AC9TDI2P05", "title": "Share content and collaborate", "description": "Use the basic features of common digital tools to share content and collaborate demonstrating agreed behaviours, guided by trusted adults", "capability_goal": "Students use basic features of digital tools to share content and collaborate, demonstrating agreed behaviours guided by trusted adults.", "sub_strand": "collaborating_managing", "level_key": "1-2" },
+        { "code": "AC9TDI2P06", "title": "Access accounts with credentials", "description": "Access their school account with a recorded username and password", "capability_goal": "Students access their school account using a recorded username and password.", "sub_strand": "privacy_security", "level_key": "1-2" },
+        { "code": "AC9TDI2P07", "title": "Personal data stored online", "description": "Discuss that some websites and apps store their personal data online", "capability_goal": "Students discuss how websites and apps store personal data online.", "sub_strand": "privacy_security", "level_key": "1-2" }
+      ]
+    },
+    "3-4": {
+      "label": "Years 3-4",
+      "standards": [
+        { "code": "AC9TDI4P01", "title": "Define problems with user stories", "description": "Define problems with given design criteria and by co-creating user stories", "capability_goal": "Students define problems using given design criteria and co-created user stories.", "sub_strand": "investigating_defining", "level_key": "3-4" },
+        { "code": "AC9TDI4P03", "title": "Generate and compare designs", "description": "Generate, communicate and compare designs", "capability_goal": "Students generate, communicate and compare design ideas.", "sub_strand": "designing_solutions", "level_key": "3-4" },
+        { "code": "AC9TDI4P05", "title": "Evaluate against design criteria", "description": "Discuss how existing and student solutions satisfy the design criteria and user stories", "capability_goal": "Students discuss how existing and student solutions satisfy design criteria and user stories.", "sub_strand": "evaluating", "level_key": "3-4" },
+        { "code": "AC9TDI4P06", "title": "Create content with conventions", "description": "Use the core features of common digital tools to create, locate and communicate content, following agreed conventions", "capability_goal": "Students use core features of digital tools to create, locate and communicate content, following agreed conventions.", "sub_strand": "collaborating_managing", "level_key": "3-4" },
+        { "code": "AC9TDI4P07", "title": "Plan tasks and collaborate", "description": "Use the core features of common digital tools to share content, plan tasks, and collaborate, following agreed behaviours, supported by trusted adults", "capability_goal": "Students use core features of digital tools to share content, plan tasks and collaborate, following agreed behaviours.", "sub_strand": "collaborating_managing", "level_key": "3-4" },
+        { "code": "AC9TDI4P08", "title": "Memorised passwords", "description": "Access their school account using a memorised password and explain why it should be easy to remember, but hard for others to guess", "capability_goal": "Students access accounts using memorised passwords and explain what makes a strong password.", "sub_strand": "privacy_security", "level_key": "3-4" },
+        { "code": "AC9TDI4P09", "title": "Personal data risks online", "description": "Identify what personal data is stored and shared in their online accounts and discuss any associated risks", "capability_goal": "Students identify personal data stored in online accounts and discuss associated risks.", "sub_strand": "privacy_security", "level_key": "3-4" }
+      ]
+    },
+    "5-6": {
+      "label": "Years 5-6",
+      "standards": [
+        { "code": "AC9TDI6P01", "title": "Define problems with user stories", "description": "Define problems with given or co-developed design criteria and by creating user stories", "capability_goal": "Students define problems using given or co-developed design criteria and independently created user stories.", "sub_strand": "investigating_defining", "level_key": "5-6" },
+        { "code": "AC9TDI6P03", "title": "Design a user interface", "description": "Design a user interface for a digital system", "capability_goal": "Students design a user interface for a digital system.", "sub_strand": "designing_solutions", "level_key": "5-6" },
+        { "code": "AC9TDI6P04", "title": "Generate, modify and evaluate designs", "description": "Generate, modify, communicate and evaluate designs", "capability_goal": "Students generate, modify, communicate and evaluate design ideas.", "sub_strand": "designing_solutions", "level_key": "5-6" },
+        { "code": "AC9TDI6P06", "title": "Evaluate against criteria and impact", "description": "Evaluate existing and student solutions against the design criteria and user stories and their broader community impact", "capability_goal": "Students evaluate solutions against design criteria, user stories and broader community impact.", "sub_strand": "evaluating", "level_key": "5-6" },
+        { "code": "AC9TDI6P07", "title": "Select tools for content creation", "description": "Select and use appropriate digital tools effectively to create, locate and communicate content, applying common conventions", "capability_goal": "Students select and use appropriate digital tools to create, locate and communicate content, applying common conventions.", "sub_strand": "collaborating_managing", "level_key": "5-6" },
+        { "code": "AC9TDI6P08", "title": "Collaborate and manage projects", "description": "Select and use appropriate digital tools effectively to share content online, plan tasks and collaborate on projects, demonstrating agreed behaviours", "capability_goal": "Students select and use appropriate digital tools to share content, plan tasks and collaborate on projects.", "sub_strand": "collaborating_managing", "level_key": "5-6" },
+        { "code": "AC9TDI6P09", "title": "Unique passphrases and risks", "description": "Access multiple personal accounts using unique passphrases and explain the risks of password re-use", "capability_goal": "Students use unique passphrases across accounts and explain the risks of password re-use.", "sub_strand": "privacy_security", "level_key": "5-6" },
+        { "code": "AC9TDI6P10", "title": "Digital footprint and privacy", "description": "Explain the creation and permanence of their digital footprint and consider privacy when collecting user data", "capability_goal": "Students explain how their digital footprint is created and permanent, and consider privacy when collecting user data.", "sub_strand": "privacy_security", "level_key": "5-6" }
+      ]
+    },
+    "7-8": {
+      "label": "Years 7-8",
+      "standards": [
+        { "code": "AC9TDI8P04", "title": "Decompose real-world problems", "description": "Define and decompose real-world problems with design criteria and by creating user stories", "capability_goal": "Students define and decompose real-world problems using design criteria and user stories.", "sub_strand": "investigating_defining", "level_key": "7-8" },
+        { "code": "AC9TDI8P07", "title": "Design user experience", "description": "Design the user experience of a digital system", "capability_goal": "Students design the user experience of a digital system.", "sub_strand": "designing_solutions", "level_key": "7-8" },
+        { "code": "AC9TDI8P08", "title": "Generate and evaluate designs", "description": "Generate, modify, communicate and evaluate alternative designs", "capability_goal": "Students generate, modify, communicate and evaluate alternative designs.", "sub_strand": "designing_solutions", "level_key": "7-8" },
+        { "code": "AC9TDI8P10", "title": "Evaluate against future impact", "description": "Evaluate existing and student solutions against the design criteria, user stories and possible future impact", "capability_goal": "Students evaluate solutions against design criteria, user stories and possible future impact.", "sub_strand": "evaluating", "level_key": "7-8" },
+        { "code": "AC9TDI8P11", "title": "Use digital tools efficiently", "description": "Select and use a range of digital tools efficiently, including unfamiliar features, to create, locate and communicate content, consistently applying common conventions", "capability_goal": "Students select and use digital tools efficiently including unfamiliar features, consistently applying conventions.", "sub_strand": "collaborating_managing", "level_key": "7-8" },
+        { "code": "AC9TDI8P12", "title": "Manage agile projects", "description": "Select and use a range of digital tools efficiently and responsibly to share content online, and plan and manage individual and collaborative agile projects", "capability_goal": "Students use digital tools responsibly to share content and plan and manage agile projects.", "sub_strand": "collaborating_managing", "level_key": "7-8" },
+        { "code": "AC9TDI8P13", "title": "Multi-factor auth and phishing", "description": "Explain how multi-factor authentication protects an account when the password is compromised and identify phishing and other cyber security threats", "capability_goal": "Students explain how multi-factor authentication protects accounts and identify phishing and cyber security threats.", "sub_strand": "privacy_security", "level_key": "7-8" },
+        { "code": "AC9TDI8P14", "title": "Manage digital footprint data", "description": "Investigate and manage the digital footprint existing systems and student solutions collect and assess if the data is essential to their purpose", "capability_goal": "Students investigate and manage digital footprints, assessing whether collected data is essential to purpose.", "sub_strand": "privacy_security", "level_key": "7-8" }
+      ]
+    },
+    "9-10": {
+      "label": "Years 9-10",
+      "standards": [
+        { "code": "AC9TDI10P04", "title": "Define problems via stakeholders", "description": "Define and decompose real-world problems with design criteria and by interviewing stakeholders to create user stories", "capability_goal": "Students define and decompose real-world problems using design criteria and stakeholder interviews to create user stories.", "sub_strand": "investigating_defining", "level_key": "9-10" },
+        { "code": "AC9TDI10P07", "title": "Design and prototype UX", "description": "Design and prototype the user experience of a digital system", "capability_goal": "Students design and prototype the user experience of a digital system.", "sub_strand": "designing_solutions", "level_key": "9-10" },
+        { "code": "AC9TDI10P08", "title": "Critically evaluate designs", "description": "Generate, modify, communicate and critically evaluate alternative designs", "capability_goal": "Students generate, modify, communicate and critically evaluate alternative designs.", "sub_strand": "designing_solutions", "level_key": "9-10" },
+        { "code": "AC9TDI10P10", "title": "Evaluate for enterprise opportunities", "description": "Evaluate existing and student solutions against the design criteria, user stories, possible future impact and opportunities for enterprise", "capability_goal": "Students evaluate solutions against design criteria, user stories, future impact and enterprise opportunities.", "sub_strand": "evaluating", "level_key": "9-10" },
+        { "code": "AC9TDI10P11", "title": "Use emerging tools for audiences", "description": "Select and use emerging digital tools and advanced features to create and communicate interactive content for a diverse audience", "capability_goal": "Students select and use emerging digital tools and advanced features to create and communicate interactive content for diverse audiences.", "sub_strand": "collaborating_managing", "level_key": "9-10" },
+        { "code": "AC9TDI10P12", "title": "Manage projects with risk", "description": "Use simple project management tools to plan and manage individual and collaborative agile projects, accounting for risks and responsibilities", "capability_goal": "Students use project management tools to plan and manage agile projects, accounting for risks and responsibilities.", "sub_strand": "collaborating_managing", "level_key": "9-10" },
+        { "code": "AC9TDI10P13", "title": "Cyber security threat models", "description": "Develop cyber security threat models, and explore a software, user or software supply chain vulnerability", "capability_goal": "Students develop cyber security threat models and explore software, user or supply chain vulnerabilities.", "sub_strand": "privacy_security", "level_key": "9-10" },
+        { "code": "AC9TDI10P14", "title": "Apply Australian Privacy Principles", "description": "Apply the Australian Privacy Principles to critique and manage the digital footprint that existing systems and student solutions collect", "capability_goal": "Students apply the Australian Privacy Principles to critique and manage digital footprints collected by systems and solutions.", "sub_strand": "privacy_security", "level_key": "9-10" }
+      ]
+    }
+  },
+  "capability_threads": {
+    "strands": {
+      "processes_production": {
+        "label": "Design & Environment",
+        "sub_strands": {
+          "investigating_defining": { "label": "Investigating and defining", "color": "#00838F", "sequence": ["AC9TDI2P01", "AC9TDI4P01", "AC9TDI6P01", "AC9TDI8P04", "AC9TDI10P04"] },
+          "designing_solutions": { "label": "Designing solutions", "color": "#2563A8", "sequence": ["AC9TDI4P03", "AC9TDI6P03", "AC9TDI6P04", "AC9TDI8P07", "AC9TDI8P08", "AC9TDI10P07", "AC9TDI10P08"] },
+          "evaluating": { "label": "Evaluating", "color": "#C2185B", "sequence": ["AC9TDI2P03", "AC9TDI4P05", "AC9TDI6P06", "AC9TDI8P10", "AC9TDI10P10"] },
+          "collaborating_managing": { "label": "Collaborating and managing", "color": "#9F2B68", "sequence": ["AC9TDI2P04", "AC9TDI2P05", "AC9TDI4P06", "AC9TDI4P07", "AC9TDI6P07", "AC9TDI6P08", "AC9TDI8P11", "AC9TDI8P12", "AC9TDI10P11", "AC9TDI10P12"] },
+          "privacy_security": { "label": "Privacy and security", "color": "#263238", "sequence": ["AC9TDIFP01", "AC9TDI2P06", "AC9TDI2P07", "AC9TDI4P08", "AC9TDI4P09", "AC9TDI6P09", "AC9TDI6P10", "AC9TDI8P13", "AC9TDI8P14", "AC9TDI10P13", "AC9TDI10P14"] }
+        }
+      }
+    }
+  }
+}

@@ -34,6 +34,10 @@
   /* Digital — concepts */
   .strand-btn.active-ds   { background: #2563A8; color: #fff; border-color: transparent; font-weight: 500; }
   .strand-btn.active-dr   { background: #1E7A6A; color: #fff; border-color: transparent; font-weight: 500; }
+  /* Digital — Cap Split */
+  .strand-btn.active-pp-design { background: #3A7DBF; color: #fff; border-color: transparent; font-weight: 500; }
+  .strand-btn.active-pp-logic  { background: #7A3FA8; color: #fff; border-color: transparent; font-weight: 500; }
+  
   .panel { display: none; }
   .panel.active { display: block; }
   svg { display: block; }
@@ -60,7 +64,8 @@
   <button class="tab active" id="tab-design-concepts"    onclick="switchTab('design-concepts')">Design — Concepts</button>
   <button class="tab"        id="tab-design-cap"         onclick="switchTab('design-cap')">Design — Capabilities</button>
   <button class="tab"        id="tab-digital-concepts"   onclick="switchTab('digital-concepts')">Digital — Concepts</button>
-  <button class="tab"        id="tab-digital-cap"        onclick="switchTab('digital-cap')">Digital — Capabilities</button>
+  <button class="tab"        id="tab-digital-design-cap" onclick="switchTab('digital-design-cap')">Digital — Design & Env</button>
+  <button class="tab"        id="tab-digital-logic-cap"  onclick="switchTab('digital-logic-cap')">Digital — Logic & Data</button>
 </div>
 
 <div class="panel active" id="panel-design-concepts">
@@ -75,9 +80,13 @@
   <div class="controls" id="strand-controls-digital-concepts"></div>
   <div style="overflow-x:auto; padding: 0 24px 32px;"><svg id="tree-svg-digital-concepts"></svg></div>
 </div>
-<div class="panel" id="panel-digital-cap">
-  <div class="controls" id="strand-controls-digital-cap"></div>
-  <div style="overflow-x:auto; padding: 0 24px 32px;"><svg id="tree-svg-digital-cap"></svg></div>
+<div class="panel" id="panel-digital-design-cap">
+  <div class="controls" id="strand-controls-digital-design-cap"></div>
+  <div style="overflow-x:auto; padding: 0 24px 32px;"><svg id="tree-svg-digital-design-cap"></svg></div>
+</div>
+<div class="panel" id="panel-digital-logic-cap">
+  <div class="controls" id="strand-controls-digital-logic-cap"></div>
+  <div style="overflow-x:auto; padding: 0 24px 32px;"><svg id="tree-svg-digital-logic-cap"></svg></div>
 </div>
 
 <div id="tooltip">
@@ -164,17 +173,30 @@ const TECH_BAND_LABELS = { "F":"F","1-2":"Y1-2","3-4":"Y3-4","5-6":"Y5-6","7-8":
     svgId: "tree-svg-digital-concepts", controlsId: "strand-controls-digital-concepts"
   });
 
-  // ── Digital Technologies — Capabilities ───────────────────────────────────
+  // ── Digital Technologies — Design & Environment Capabilities ─────────────
   await initCapabilities({
-    dataUrl: './digital_tech_capability_map.json',
+    dataUrl: './digital_tech_design_capability_map.json',
     bandOrder: TECH_BAND_ORDER,
     bandLabels: TECH_BAND_LABELS,
     strandConfig: {
-      processes_production: { color: "#7A3FA8", cssKey: "pp", label: "Processes and Production Skills" }
+      processes_production: { color: "#3A7DBF", cssKey: "pp-design", label: "Design & Environment Skills" }
     },
     strandOrder: ["processes_production"],
     goalField: "capability_goal",
-    svgId: "tree-svg-digital-cap", controlsId: "strand-controls-digital-cap"
+    svgId: "tree-svg-digital-design-cap", controlsId: "strand-controls-digital-design-cap"
+  });
+
+  // ── Digital Technologies — Logic & Data Capabilities ─────────────────────
+  await initCapabilities({
+    dataUrl: './digital_tech_logic_capability_map.json',
+    bandOrder: TECH_BAND_ORDER,
+    bandLabels: TECH_BAND_LABELS,
+    strandConfig: {
+      processes_production: { color: "#7A3FA8", cssKey: "pp-logic", label: "Logic & Data Skills" }
+    },
+    strandOrder: ["processes_production"],
+    goalField: "capability_goal",
+    svgId: "tree-svg-digital-logic-cap", controlsId: "strand-controls-digital-logic-cap"
   });
 
 })();

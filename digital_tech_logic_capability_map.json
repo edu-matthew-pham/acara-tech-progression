@@ -1,0 +1,63 @@
+{
+  "description": "Digital Technologies capability progression map — Logic & Data Mode.",
+  "subject": "Digital Technologies",
+  "curriculum": "ACARA v9",
+  "levels": {
+    "F": { "label": "Foundation", "standards": [] },
+    "1-2": {
+      "label": "Years 1-2",
+      "standards": [
+        { "code": "AC9TDI2P02", "title": "Follow algorithms with branching", "description": "Follow and describe algorithms involving a sequence of steps, branching (decisions) and iteration (repetition)", "capability_goal": "Students follow and describe algorithms involving sequences, branching and iteration.", "sub_strand": "designing_algorithms", "level_key": "1-2" }
+      ]
+    },
+    "3-4": {
+      "label": "Years 3-4",
+      "standards": [
+        { "code": "AC9TDI4P02", "title": "Describe algorithms with operators", "description": "Follow and describe algorithms involving sequencing, comparison operators (branching) and iteration", "capability_goal": "Students follow and describe algorithms involving sequencing, comparison operators and iteration.", "sub_strand": "designing_algorithms", "level_key": "3-4" },
+        { "code": "AC9TDI4P04", "title": "Implement visual programs", "description": "Implement simple algorithms as visual programs involving control structures and input", "capability_goal": "Students implement simple algorithms as visual programs involving control structures and input.", "sub_strand": "producing_implementing", "level_key": "3-4" }
+      ]
+    },
+    "5-6": {
+      "label": "Years 5-6",
+      "standards": [
+        { "code": "AC9TDI6P02", "title": "Design algorithms with iteration", "description": "Design algorithms involving multiple alternatives (branching) and iteration", "capability_goal": "Students design algorithms involving multiple branching alternatives and iteration.", "sub_strand": "designing_algorithms", "level_key": "5-6" },
+        { "code": "AC9TDI6P05", "title": "Implement programs with variables", "description": "Implement algorithms as visual programs involving control structures, variables and input", "capability_goal": "Students implement algorithms as visual programs involving control structures, variables and input.", "sub_strand": "producing_implementing", "level_key": "5-6" }
+      ]
+    },
+    "7-8": {
+      "label": "Years 7-8",
+      "standards": [
+        { "code": "AC9TDI8P01", "title": "Acquire and validate data", "description": "Acquire, store and validate data from a range of sources using software, including spreadsheets and databases", "capability_goal": "Students acquire, store and validate data from a range of sources using spreadsheets and databases.", "sub_strand": "managing_data", "level_key": "7-8" },
+        { "code": "AC9TDI8P02", "title": "Analyse and visualise data", "description": "Analyse and visualise data using a range of software, including spreadsheets and databases, to draw conclusions and make predictions by identifying trends", "capability_goal": "Students analyse and visualise data using software to draw conclusions and make predictions by identifying trends.", "sub_strand": "managing_data", "level_key": "7-8" },
+        { "code": "AC9TDI8P03", "title": "Model structured data", "description": "Model and query the attributes of objects and events using structured data", "capability_goal": "Students model and query the attributes of objects and events using structured data.", "sub_strand": "modelling_data", "level_key": "7-8" },
+        { "code": "AC9TDI8P05", "title": "Design nested algorithms", "description": "Design algorithms involving nested control structures and represent them using flowcharts and pseudocode", "capability_goal": "Students design algorithms with nested control structures represented in flowcharts and pseudocode.", "sub_strand": "designing_algorithms", "level_key": "7-8" },
+        { "code": "AC9TDI8P06", "title": "Trace algorithms for errors", "description": "Trace algorithms to predict output for a given input and to identify errors", "capability_goal": "Students trace algorithms to predict output and identify errors.", "sub_strand": "designing_algorithms", "level_key": "7-8" },
+        { "code": "AC9TDI8P09", "title": "Implement programs with functions", "description": "Implement, modify and debug programs involving control structures and functions in a general-purpose programming language", "capability_goal": "Students implement, modify and debug programs using control structures and functions in a general-purpose programming language.", "sub_strand": "producing_implementing", "level_key": "7-8" }
+      ]
+    },
+    "9-10": {
+      "label": "Years 9-10",
+      "standards": [
+        { "code": "AC9TDI10P01", "title": "Develop data acquisition techniques", "description": "Develop techniques to acquire, store and validate data from a range of sources using software, including spreadsheets and databases", "capability_goal": "Students develop techniques to acquire, store and validate data from a range of sources using spreadsheets and databases.", "sub_strand": "managing_data", "level_key": "9-10" },
+        { "code": "AC9TDI10P02", "title": "Analyse data interactively", "description": "Analyse and visualise data interactively using a range of software, including spreadsheets and databases, to draw conclusions and make predictions by identifying trends and outliers", "capability_goal": "Students analyse and visualise data interactively to draw conclusions and make predictions, identifying trends and outliers.", "sub_strand": "managing_data", "level_key": "9-10" },
+        { "code": "AC9TDI10P03", "title": "Model entity relationships", "description": "Model and query entities and their relationships using structured data", "capability_goal": "Students model and query entities and their relationships using structured data.", "sub_strand": "modelling_data", "level_key": "9-10" },
+        { "code": "AC9TDI10P05", "title": "Design algorithms with logic", "description": "Design algorithms involving logical operators and represent them as flowcharts and pseudocode", "capability_goal": "Students design algorithms involving logical operators represented as flowcharts and pseudocode.", "sub_strand": "designing_algorithms", "level_key": "9-10" },
+        { "code": "AC9TDI10P06", "title": "Validate with test cases", "description": "Validate algorithms and programs by comparing their output against a range of test cases", "capability_goal": "Students validate algorithms and programs by comparing output against a range of test cases.", "sub_strand": "designing_algorithms", "level_key": "9-10" },
+        { "code": "AC9TDI10P09", "title": "Implement modular OOP programs", "description": "Implement, modify and debug modular programs, applying selected algorithms and data structures, including in an object-oriented programming language", "capability_goal": "Students implement, modify and debug modular programs applying algorithms and data structures, including in an object-oriented language.", "sub_strand": "producing_implementing", "level_key": "9-10" }
+      ]
+    }
+  },
+  "capability_threads": {
+    "strands": {
+      "processes_production": {
+        "label": "Logic & Data",
+        "sub_strands": {
+          "designing_algorithms": { "label": "Designing algorithms", "color": "#1E8A5A", "sequence": ["AC9TDI2P02", "AC9TDI4P02", "AC9TDI6P02", "AC9TDI8P05", "AC9TDI8P06", "AC9TDI10P05", "AC9TDI10P06"] },
+          "producing_implementing": { "label": "Producing and implementing", "color": "#2563A8", "sequence": ["AC9TDI4P04", "AC9TDI6P05", "AC9TDI8P09", "AC9TDI10P09"] },
+          "managing_data": { "label": "Managing data", "color": "#F57C00", "sequence": ["AC9TDI8P01", "AC9TDI8P02", "AC9TDI10P01", "AC9TDI10P02"] },
+          "modelling_data": { "label": "Modelling data", "color": "#FFA726", "sequence": ["AC9TDI8P03", "AC9TDI10P03"] }
+        }
+      }
+    }
+  }
+}
