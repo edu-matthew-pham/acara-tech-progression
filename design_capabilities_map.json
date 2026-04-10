@@ -1,0 +1,313 @@
+{
+  "description": "Design and Technologies capability progression map — Processes and Production Skills strand, Foundation to Years 9-10. Band-based and organised by normalised capability labels aligned to ACARA headings.",
+  "subject": "Design and Technologies",
+  "curriculum": "ACARA v9",
+  "levels": {
+    "F": {
+      "label": "Foundation",
+      "standards": [
+        {
+          "code": "AC9TDEFP01",
+          "title": "Design and make solutions",
+          "description": "generate, communicate and evaluate design ideas, and use materials, equipment and steps to safely make a solution for a purpose",
+          "capability_goal": "Students generate, communicate and evaluate design ideas, and use materials, equipment and steps to safely make a solution for a purpose.",
+          "sub_strand": "design_solutions",
+          "level_key": "F"
+        }
+      ]
+    },
+    "1-2": {
+      "label": "Years 1-2",
+      "standards": [
+        {
+          "code": "AC9TDE2P01",
+          "title": "Describe, draw and model ideas",
+          "description": "generate and communicate design ideas through describing, drawing or modelling, including using digital tools",
+          "capability_goal": "Students generate and communicate design ideas through describing, drawing or modelling, including using digital tools.",
+          "sub_strand": "design_solutions",
+          "level_key": "1-2"
+        },
+        {
+          "code": "AC9TDE2P02",
+          "title": "Safely make designed solutions",
+          "description": "use materials, components, tools, equipment and techniques to safely make designed solutions",
+          "capability_goal": "Students use materials, components, tools, equipment and techniques to safely make designed solutions.",
+          "sub_strand": "producing",
+          "level_key": "1-2"
+        },
+        {
+          "code": "AC9TDE2P03",
+          "title": "Evaluate success and sustainability",
+          "description": "evaluate the success of design ideas and solutions based on personal preferences and including sustainability",
+          "capability_goal": "Students evaluate the success of design ideas and solutions based on personal preferences and including sustainability.",
+          "sub_strand": "evaluating",
+          "level_key": "1-2"
+        },
+        {
+          "code": "AC9TDE2P04",
+          "title": "Sequence making steps cooperatively",
+          "description": "sequence steps for making designed solutions cooperatively",
+          "capability_goal": "Students sequence steps for making designed solutions cooperatively.",
+          "sub_strand": "collaborating",
+          "level_key": "1-2"
+        }
+      ]
+    },
+    "3-4": {
+      "label": "Years 3-4",
+      "standards": [
+        {
+          "code": "AC9TDE4P01",
+          "title": "Explore needs and test materials",
+          "description": "explore needs or opportunities for designing, and test materials, components, tools, equipment and processes needed to create designed solutions",
+          "capability_goal": "Students explore needs or opportunities for designing, and test materials, components, tools, equipment and processes needed to create designed solutions.",
+          "sub_strand": "investigating",
+          "level_key": "3-4"
+        },
+        {
+          "code": "AC9TDE4P02",
+          "title": "Communicate design decisions",
+          "description": "generate and communicate design ideas and decisions using appropriate attributions, technical terms and graphical representation techniques, including using digital tools",
+          "capability_goal": "Students generate and communicate design ideas and decisions using appropriate attributions, technical terms and graphical representation techniques, including using digital tools.",
+          "sub_strand": "design_solutions",
+          "level_key": "3-4"
+        },
+        {
+          "code": "AC9TDE4P03",
+          "title": "Select tools and techniques",
+          "description": "select and use materials, components, tools, equipment and techniques to safely make designed solutions",
+          "capability_goal": "Students select and use materials, components, tools, equipment and techniques to safely make designed solutions.",
+          "sub_strand": "producing",
+          "level_key": "3-4"
+        },
+        {
+          "code": "AC9TDE4P04",
+          "title": "Use criteria to evaluate solutions",
+          "description": "use given or co-developed design criteria including sustainability to evaluate design ideas and solutions",
+          "capability_goal": "Students use given or co-developed design criteria, including sustainability, to evaluate design ideas and solutions.",
+          "sub_strand": "evaluating",
+          "level_key": "3-4"
+        },
+        {
+          "code": "AC9TDE4P05",
+          "title": "Sequence collaborative production",
+          "description": "sequence steps to individually and collaboratively make designed solutions",
+          "capability_goal": "Students sequence steps to individually and collaboratively make designed solutions.",
+          "sub_strand": "collaborating",
+          "level_key": "3-4"
+        }
+      ]
+    },
+    "5-6": {
+      "label": "Years 5-6",
+      "standards": [
+        {
+          "code": "AC9TDE6P01",
+          "title": "Investigate needs and processes",
+          "description": "investigate needs or opportunities for designing, and the materials, components, tools, equipment and processes needed to create designed solutions",
+          "capability_goal": "Students investigate needs or opportunities for designing, and the materials, components, tools, equipment and processes needed to create designed solutions.",
+          "sub_strand": "investigating",
+          "level_key": "5-6"
+        },
+        {
+          "code": "AC9TDE6P02",
+          "title": "Iterate and communicate designs",
+          "description": "generate, iterate and communicate design ideas, decisions and processes using technical terms and graphical representation techniques, including using digital tools",
+          "capability_goal": "Students generate, iterate and communicate design ideas, decisions and processes using technical terms and graphical representation techniques, including using digital tools.",
+          "sub_strand": "design_solutions",
+          "level_key": "5-6"
+        },
+        {
+          "code": "AC9TDE6P03",
+          "title": "Use suitable materials and techniques",
+          "description": "select and use suitable materials, components, tools, equipment and techniques to safely make designed solutions",
+          "capability_goal": "Students select and use suitable materials, components, tools, equipment and techniques to safely make designed solutions.",
+          "sub_strand": "producing",
+          "level_key": "5-6"
+        },
+        {
+          "code": "AC9TDE6P04",
+          "title": "Negotiate criteria for evaluation",
+          "description": "negotiate design criteria including sustainability to evaluate design ideas, processes and solutions",
+          "capability_goal": "Students negotiate design criteria, including sustainability, to evaluate design ideas, processes and solutions.",
+          "sub_strand": "evaluating",
+          "level_key": "5-6"
+        },
+        {
+          "code": "AC9TDE6P05",
+          "title": "Develop project plans and resources",
+          "description": "develop project plans that include consideration of resources to individually and collaboratively make designed solutions",
+          "capability_goal": "Students develop project plans that include consideration of resources to individually and collaboratively make designed solutions.",
+          "sub_strand": "collaborating",
+          "level_key": "5-6"
+        }
+      ]
+    },
+    "7-8": {
+      "label": "Years 7-8",
+      "standards": [
+        {
+          "code": "AC9TDE8P01",
+          "title": "Analyse opportunities and select resources",
+          "description": "analyse needs or opportunities for designing, and investigate and select materials, components, tools, equipment and processes to create designed solutions",
+          "capability_goal": "Students analyse needs or opportunities for designing, and investigate and select materials, components, tools, equipment and processes to create designed solutions.",
+          "sub_strand": "investigating",
+          "level_key": "7-8"
+        },
+        {
+          "code": "AC9TDE8P02",
+          "title": "Test and refine design ideas",
+          "description": "generate, test, iterate and communicate design ideas, processes and solutions using technical terms and graphical representation techniques, including using digital tools",
+          "capability_goal": "Students generate, test, iterate and communicate design ideas, processes and solutions using technical terms and graphical representation techniques, including using digital tools.",
+          "sub_strand": "design_solutions",
+          "level_key": "7-8"
+        },
+        {
+          "code": "AC9TDE8P03",
+          "title": "Justify production choices",
+          "description": "select, justify and use suitable materials, components, tools, equipment, skills and processes to safely make designed solutions",
+          "capability_goal": "Students select, justify and use suitable materials, components, tools, equipment, skills and processes to safely make designed solutions.",
+          "sub_strand": "producing",
+          "level_key": "7-8"
+        },
+        {
+          "code": "AC9TDE8P04",
+          "title": "Develop criteria collaboratively",
+          "description": "develop design criteria collaboratively including sustainability to evaluate design ideas, processes and solutions",
+          "capability_goal": "Students develop design criteria collaboratively, including sustainability, to evaluate design ideas, processes and solutions.",
+          "sub_strand": "evaluating",
+          "level_key": "7-8"
+        },
+        {
+          "code": "AC9TDE8P05",
+          "title": "Manage time, cost and production",
+          "description": "develop project plans to individually and collaboratively manage time, cost and production of designed solutions",
+          "capability_goal": "Students develop project plans to individually and collaboratively manage time, cost and production of designed solutions.",
+          "sub_strand": "collaborating",
+          "level_key": "7-8"
+        }
+      ]
+    },
+    "9-10": {
+      "label": "Years 9-10",
+      "standards": [
+        {
+          "code": "AC9TDE10P01",
+          "title": "Develop briefs and analyse resources",
+          "description": "analyse needs or opportunities for designing; develop design briefs; and investigate, analyse and select materials, systems, components, tools and equipment to create designed solutions",
+          "capability_goal": "Students analyse needs or opportunities for designing, develop design briefs, and investigate, analyse and select materials, systems, components, tools and equipment to create designed solutions.",
+          "sub_strand": "investigating",
+          "level_key": "9-10"
+        },
+        {
+          "code": "AC9TDE10P02",
+          "title": "Innovate design solutions",
+          "description": "apply innovation and enterprise skills to generate, test, iterate and communicate design ideas, processes and solutions, including using digital tools",
+          "capability_goal": "Students apply innovation and enterprise skills to generate, test, iterate and communicate design ideas, processes and solutions, including using digital tools.",
+          "sub_strand": "design_solutions",
+          "level_key": "9-10"
+        },
+        {
+          "code": "AC9TDE10P03",
+          "title": "Test and apply production processes",
+          "description": "select, justify, test and use suitable technologies, skills and processes, and apply safety procedures to safely make designed solutions",
+          "capability_goal": "Students select, justify, test and use suitable technologies, skills and processes, and apply safety procedures to safely make designed solutions.",
+          "sub_strand": "producing",
+          "level_key": "9-10"
+        },
+        {
+          "code": "AC9TDE10P04",
+          "title": "Develop criteria independently",
+          "description": "develop design criteria independently including sustainability to evaluate design ideas, processes and solutions",
+          "capability_goal": "Students develop design criteria independently, including sustainability, to evaluate design ideas, processes and solutions.",
+          "sub_strand": "evaluating",
+          "level_key": "9-10"
+        },
+        {
+          "code": "AC9TDE10P05",
+          "title": "Manage projects for audiences",
+          "description": "develop project plans for intended purposes and audiences to individually and collaboratively manage projects, taking into consideration time, cost, risk, processes and production of designed solutions",
+          "capability_goal": "Students develop project plans for intended purposes and audiences to individually and collaboratively manage projects, taking into consideration time, cost, risk, processes and production of designed solutions.",
+          "sub_strand": "collaborating",
+          "level_key": "9-10"
+        }
+      ]
+    }
+  },
+  "capability_threads": {
+    "description": "Capability maturation sequences for Design and Technologies Processes and Production Skills. Sequences show increasing sophistication across bands rather than strict prerequisite dependency.",
+    "strands": {
+      "processes_production": {
+        "label": "Processes and Production Skills",
+        "sub_strands": {
+          "investigating": {
+            "label": "Investigating and defining",
+            "short_label": "Investigating",
+            "color": "#2A6EBF",
+            "sequence": [
+              "AC9TDE4P01",
+              "AC9TDE6P01",
+              "AC9TDE8P01",
+              "AC9TDE10P01"
+            ]
+          },
+          "design_solutions": {
+            "label": "Generating and designing",
+            "short_label": "Designing",
+            "color": "#3A7DBF",
+            "sequence": [
+              "AC9TDEFP01",
+              "AC9TDE2P01",
+              "AC9TDE4P02",
+              "AC9TDE6P02",
+              "AC9TDE8P02",
+              "AC9TDE10P02"
+            ]
+          },
+          "producing": {
+            "label": "Producing and implementing",
+            "short_label": "Producing",
+            "color": "#7A3FA8",
+            "sequence": [
+              "AC9TDEFP01",
+              "AC9TDE2P02",
+              "AC9TDE4P03",
+              "AC9TDE6P03",
+              "AC9TDE8P03",
+              "AC9TDE10P03"
+            ]
+          },
+          "evaluating": {
+            "label": "Evaluating",
+            "short_label": "Evaluating",
+            "color": "#C2185B",
+            "sequence": [
+              "AC9TDEFP01",
+              "AC9TDE2P03",
+              "AC9TDE4P04",
+              "AC9TDE6P04",
+              "AC9TDE8P04",
+              "AC9TDE10P04"
+            ]
+          },
+          "collaborating": {
+            "label": "Collaborating and managing",
+            "short_label": "Collaborating",
+            "color": "#2A8FA8",
+            "sequence": [
+              "AC9TDE2P04",
+              "AC9TDE4P05",
+              "AC9TDE6P05",
+              "AC9TDE8P05",
+              "AC9TDE10P05"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_notes": {
+    "naming": "design_capability_map.json",
+    "normalised_labels": "Capability strand keys are normalised for cross-subject comparison while titles and labels preserve ACARA wording."
+  }
+}

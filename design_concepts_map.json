@@ -1,0 +1,383 @@
+{
+  "description": "Design and Technologies concept progression map — Knowledge and Understanding strand, Foundation to Years 9-10. Organised by ACARA technologies contexts with normalised strand keys for visualisation.",
+  "subject": "Design and Technologies",
+  "curriculum": "ACARA v9",
+  "year_levels": {
+    "F": {
+      "subject": "Design and Technologies",
+      "standards": [
+        {
+          "code": "AC9TDEFK01",
+          "title": "Designed products and environments",
+          "description": "explore how familiar products, services and environments are designed by people",
+          "y_goal": "Students explore how familiar products, services and environments are designed by people.",
+          "level_key": "F"
+        }
+      ]
+    },
+    "1-2": {
+      "subject": "Design and Technologies",
+      "standards": [
+        {
+          "code": "AC9TDE2K01",
+          "title": "Designed solutions for needs",
+          "description": "identify how familiar products, services and environments are designed and produced by people to meet personal or local community needs and sustainability",
+          "y_goal": "Students identify how familiar products, services and environments are designed and produced to meet personal or local community needs and sustainability.",
+          "level_key": "1-2"
+        },
+        {
+          "code": "AC9TDE2K02",
+          "title": "Materials affect movement",
+          "description": "explore how technologies including materials affect movement in products",
+          "y_goal": "Students explore how technologies, including materials, affect movement in products.",
+          "level_key": "1-2"
+        },
+        {
+          "code": "AC9TDE2K03",
+          "title": "Growing plants and animals",
+          "description": "explore how plants and animals are grown for food, clothing and shelter",
+          "y_goal": "Students explore how plants and animals are grown for food, clothing and shelter.",
+          "level_key": "1-2"
+        },
+        {
+          "code": "AC9TDE2K04",
+          "title": "Selecting and preparing food",
+          "description": "explore how food can be selected and prepared for healthy eating",
+          "y_goal": "Students explore how food can be selected and prepared for healthy eating.",
+          "level_key": "1-2"
+        }
+      ]
+    },
+    "3-4": {
+      "subject": "Design and Technologies",
+      "standards": [
+        {
+          "code": "AC9TDE4K01",
+          "title": "Design occupations and sustainability",
+          "description": "examine design and technologies occupations and factors including sustainability that impact on the design of products, services and environments to meet community needs",
+          "y_goal": "Students examine design and technologies occupations and factors, including sustainability, that impact the design of products, services and environments to meet community needs.",
+          "level_key": "3-4"
+        },
+        {
+          "code": "AC9TDE4K02",
+          "title": "Forces and material function",
+          "description": "describe how forces and the properties of materials affect function in a product or system",
+          "y_goal": "Students describe how forces and the properties of materials affect function in a product or system.",
+          "level_key": "3-4"
+        },
+        {
+          "code": "AC9TDE4K03",
+          "title": "Ways of producing food and fibre",
+          "description": "describe the ways of producing food and fibre",
+          "y_goal": "Students describe the ways food and fibre are produced.",
+          "level_key": "3-4"
+        },
+        {
+          "code": "AC9TDE4K04",
+          "title": "Healthy food preparation choices",
+          "description": "describe the ways food can be selected and prepared for healthy eating",
+          "y_goal": "Students describe the ways food can be selected and prepared for healthy eating.",
+          "level_key": "3-4"
+        }
+      ]
+    },
+    "5-6": {
+      "subject": "Design and Technologies",
+      "standards": [
+        {
+          "code": "AC9TDE6K01",
+          "title": "Competing factors in design",
+          "description": "explain how people in design and technologies occupations consider competing factors including sustainability in the design of products, services and environments",
+          "y_goal": "Students explain how people in design and technologies occupations consider competing factors, including sustainability, in the design of products, services and environments.",
+          "level_key": "5-6"
+        },
+        {
+          "code": "AC9TDE6K02",
+          "title": "Electrical energy transformations",
+          "description": "explain how electrical energy can be transformed into movement, sound or light in a product or system",
+          "y_goal": "Students explain how electrical energy can be transformed into movement, sound or light in a product or system.",
+          "level_key": "5-6"
+        },
+        {
+          "code": "AC9TDE6K03",
+          "title": "Managed food and fibre production",
+          "description": "explain how and why food and fibre are produced in managed environments",
+          "y_goal": "Students explain how and why food and fibre are produced in managed environments.",
+          "level_key": "5-6"
+        },
+        {
+          "code": "AC9TDE6K04",
+          "title": "Food characteristics and preparation",
+          "description": "explain how the characteristics of foods influence selection and preparation for healthy eating",
+          "y_goal": "Students explain how the characteristics of foods influence selection and preparation for healthy eating.",
+          "level_key": "5-6"
+        },
+        {
+          "code": "AC9TDE6K05",
+          "title": "Properties affect material use",
+          "description": "explain how characteristics and properties of materials, systems, components, tools and equipment affect their use when producing designed solutions",
+          "y_goal": "Students explain how characteristics and properties of materials, systems, components, tools and equipment affect their use when producing designed solutions.",
+          "level_key": "5-6"
+        }
+      ]
+    },
+    "7-8": {
+      "subject": "Design and Technologies",
+      "standards": [
+        {
+          "code": "AC9TDE8K01",
+          "title": "Ethics and sustainability in design",
+          "description": "analyse how people in design and technologies occupations consider ethical and sustainability factors to design and produce products, services and environments",
+          "y_goal": "Students analyse how people in design and technologies occupations consider ethical and sustainability factors to design and produce products, services and environments.",
+          "level_key": "7-8"
+        },
+        {
+          "code": "AC9TDE8K02",
+          "title": "Innovation for preferred futures",
+          "description": "analyse the impact of innovation and the development of technologies on designed solutions for global preferred futures",
+          "y_goal": "Students analyse the impact of innovation and the development of technologies on designed solutions for global preferred futures.",
+          "level_key": "7-8"
+        },
+        {
+          "code": "AC9TDE8K03",
+          "title": "Force, motion and energy control",
+          "description": "analyse how force, motion and energy are used to manipulate and control engineered systems",
+          "y_goal": "Students analyse how force, motion and energy are used to manipulate and control engineered systems.",
+          "level_key": "7-8"
+        },
+        {
+          "code": "AC9TDE8K04",
+          "title": "Sustainable managed production",
+          "description": "analyse how food and fibre are produced in managed environments and how these can become sustainable",
+          "y_goal": "Students analyse how food and fibre are produced in managed environments and how these can become sustainable.",
+          "level_key": "7-8"
+        },
+        {
+          "code": "AC9TDE8K05",
+          "title": "Food properties and presentation",
+          "description": "analyse how properties of foods determine preparation and presentation techniques when designing solutions for healthy eating",
+          "y_goal": "Students analyse how properties of foods determine preparation and presentation techniques when designing solutions for healthy eating.",
+          "level_key": "7-8"
+        },
+        {
+          "code": "AC9TDE8K06",
+          "title": "Combining materials and systems",
+          "description": "analyse how characteristics and properties of materials, systems, components, tools and equipment can be combined to create designed solutions",
+          "y_goal": "Students analyse how characteristics and properties of materials, systems, components, tools and equipment can be combined to create designed solutions.",
+          "level_key": "7-8"
+        }
+      ]
+    },
+    "9-10": {
+      "subject": "Design and Technologies",
+      "standards": [
+        {
+          "code": "AC9TDE10K01",
+          "title": "Innovating with ethics and security",
+          "description": "analyse how people in design and technologies occupations consider ethical, security and sustainability factors to innovate and improve products, services and environments",
+          "y_goal": "Students analyse how people in design and technologies occupations consider ethical, security and sustainability factors to innovate and improve products, services and environments.",
+          "level_key": "9-10"
+        },
+        {
+          "code": "AC9TDE10K02",
+          "title": "Enterprise and emerging technologies",
+          "description": "analyse the impact of innovation, enterprise and emerging technologies on designed solutions for global preferred futures",
+          "y_goal": "Students analyse the impact of innovation, enterprise and emerging technologies on designed solutions for global preferred futures.",
+          "level_key": "9-10"
+        },
+        {
+          "code": "AC9TDE10K03",
+          "title": "Judging engineered systems",
+          "description": "analyse and make judgements on how the characteristics and properties of materials are combined with force, motion and energy to control engineered systems",
+          "y_goal": "Students analyse and make judgements about how the characteristics and properties of materials are combined with force, motion and energy to control engineered systems.",
+          "level_key": "9-10"
+        },
+        {
+          "code": "AC9TDE10K04",
+          "title": "Food and fibre enterprises",
+          "description": "analyse and make judgements on the ethical, secure and sustainable production and marketing of food and fibre enterprises",
+          "y_goal": "Students analyse and make judgements about the ethical, secure and sustainable production and marketing of food and fibre enterprises.",
+          "level_key": "9-10"
+        },
+        {
+          "code": "AC9TDE10K05",
+          "title": "Sensory and functional food properties",
+          "description": "analyse and make judgements on how the sensory and functional properties of food influence the design and preparation of sustainable food solutions for healthy eating",
+          "y_goal": "Students analyse and make judgements about how the sensory and functional properties of food influence the design and preparation of sustainable food solutions for healthy eating.",
+          "level_key": "9-10"
+        },
+        {
+          "code": "AC9TDE10K06",
+          "title": "Judging material combinations",
+          "description": "analyse and make judgements on how characteristics and properties of materials, systems, components, tools and equipment can be combined to create designed solutions",
+          "y_goal": "Students analyse and make judgements about how characteristics and properties of materials, systems, components, tools and equipment can be combined to create designed solutions.",
+          "level_key": "9-10"
+        }
+      ]
+    }
+  },
+  "progression_threads": {
+    "description": "Concept dependency trees for Design and Technologies Knowledge and Understanding, organised by technologies context. Earlier band standards are roots; children represent the next conceptual step.",
+    "strands": {
+      "technologies_society": {
+        "label": "Technologies and Society",
+        "tree": [
+          {
+            "code": "AC9TDEFK01",
+            "children": [
+              {
+                "code": "AC9TDE2K01",
+                "children": [
+                  {
+                    "code": "AC9TDE4K01",
+                    "children": [
+                      {
+                        "code": "AC9TDE6K01",
+                        "children": [
+                          {
+                            "code": "AC9TDE8K01",
+                            "children": [
+                              {
+                                "code": "AC9TDE10K01",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "code": "AC9TDE8K02",
+                            "children": [
+                              {
+                                "code": "AC9TDE10K02",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "engineering_systems": {
+        "label": "Engineering Systems",
+        "tree": [
+          {
+            "code": "AC9TDE2K02",
+            "children": [
+              {
+                "code": "AC9TDE4K02",
+                "children": [
+                  {
+                    "code": "AC9TDE6K02",
+                    "children": [
+                      {
+                        "code": "AC9TDE8K03",
+                        "children": [
+                          {
+                            "code": "AC9TDE10K03",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "materials_specialisations": {
+        "label": "Materials Specialisations",
+        "tree": [
+          {
+            "code": "AC9TDE2K02",
+            "children": [
+              {
+                "code": "AC9TDE4K02",
+                "children": [
+                  {
+                    "code": "AC9TDE6K05",
+                    "children": [
+                      {
+                        "code": "AC9TDE8K06",
+                        "children": [
+                          {
+                            "code": "AC9TDE10K06",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "food_fibre_production": {
+        "label": "Food and Fibre Production",
+        "tree": [
+          {
+            "code": "AC9TDE2K03",
+            "children": [
+              {
+                "code": "AC9TDE4K03",
+                "children": [
+                  {
+                    "code": "AC9TDE6K03",
+                    "children": [
+                      {
+                        "code": "AC9TDE8K04",
+                        "children": [
+                          {
+                            "code": "AC9TDE10K04",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "food_specialisations": {
+        "label": "Food Specialisations",
+        "tree": [
+          {
+            "code": "AC9TDE2K04",
+            "children": [
+              {
+                "code": "AC9TDE4K04",
+                "children": [
+                  {
+                    "code": "AC9TDE6K04",
+                    "children": [
+                      {
+                        "code": "AC9TDE8K05",
+                        "children": [
+                          {
+                            "code": "AC9TDE10K05",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

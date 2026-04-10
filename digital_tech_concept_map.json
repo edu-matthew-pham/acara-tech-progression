@@ -1,0 +1,270 @@
+{
+  "description": "Digital Technologies concept progression map \u2014 Knowledge and Understanding strand, covering Digital Systems and Data Representation from Foundation to Y9-10. Concept dependency trees showing how understanding builds across bands.",
+  "subject": "Digital Technologies",
+  "curriculum": "ACARA v9",
+  "year_levels": {
+    "F": {
+      "subject": "Digital Technologies",
+      "standards": [
+        {
+          "code": "AC9TDIFK01",
+          "title": "Digital systems for a purpose",
+          "description": "Recognise and explore digital systems (hardware and software) for a purpose",
+          "y_goal": "Students recognise and explore digital systems, identifying hardware and software components used for a purpose.",
+          "level_key": "F"
+        },
+        {
+          "code": "AC9TDIFK02",
+          "title": "Data as objects and symbols",
+          "description": "Represent data as objects, pictures and symbols",
+          "y_goal": "Students represent data using objects, pictures and symbols.",
+          "level_key": "F"
+        }
+      ]
+    },
+    "1-2": {
+      "subject": "Digital Technologies",
+      "standards": [
+        {
+          "code": "AC9TDI2K01",
+          "title": "Digital systems and components",
+          "description": "Identify and explore digital systems and their components for a purpose",
+          "y_goal": "Students identify and explore digital systems and their components, explaining how they are used for a purpose.",
+          "level_key": "1-2"
+        },
+        {
+          "code": "AC9TDI2K02",
+          "title": "Data as pictures, numbers and words",
+          "description": "Represent data as pictures, symbols, numbers and words",
+          "y_goal": "Students represent data using pictures, symbols, numbers and words.",
+          "level_key": "1-2"
+        }
+      ]
+    },
+    "3-4": {
+      "subject": "Digital Technologies",
+      "standards": [
+        {
+          "code": "AC9TDI4K01",
+          "title": "Digital systems and peripherals",
+          "description": "Explore and describe a range of digital systems and their peripherals for a variety of purposes",
+          "y_goal": "Students explore and describe a range of digital systems and peripherals, explaining how they serve different purposes.",
+          "level_key": "3-4"
+        },
+        {
+          "code": "AC9TDI4K02",
+          "title": "Transmitting data between systems",
+          "description": "Explore transmitting different types of data between digital systems",
+          "y_goal": "Students explore how different types of data are transmitted between digital systems.",
+          "level_key": "3-4"
+        },
+        {
+          "code": "AC9TDI4K03",
+          "title": "Data types and representations",
+          "description": "Recognise different types of data and explore how the same data can be represented differently depending on the purpose",
+          "y_goal": "Students recognise different types of data and explain how the same data can be represented in different ways depending on purpose.",
+          "level_key": "3-4"
+        }
+      ]
+    },
+    "5-6": {
+      "subject": "Digital Technologies",
+      "standards": [
+        {
+          "code": "AC9TDI6K01",
+          "title": "Internal components and function",
+          "description": "Investigate the main internal components of common digital systems and their function",
+          "y_goal": "Students investigate and explain the main internal components of digital systems and their functions.",
+          "level_key": "5-6"
+        },
+        {
+          "code": "AC9TDI6K02",
+          "title": "Networks and data transmission",
+          "description": "Examine how digital systems form networks to transmit data",
+          "y_goal": "Students explain how digital systems form networks to transmit data.",
+          "level_key": "5-6"
+        },
+        {
+          "code": "AC9TDI6K03",
+          "title": "Data represented as numbers",
+          "description": "Explain how digital systems represent all data using numbers",
+          "y_goal": "Students explain how digital systems use numbers to represent all types of data.",
+          "level_key": "5-6"
+        },
+        {
+          "code": "AC9TDI6K04",
+          "title": "Binary representation",
+          "description": "Explore how data can be represented by off and on states (zeros and ones in binary)",
+          "y_goal": "Students explain how data is represented using binary (zeros and ones) through off and on states.",
+          "level_key": "5-6"
+        }
+      ]
+    },
+    "7-8": {
+      "subject": "Digital Technologies",
+      "standards": [
+        {
+          "code": "AC9TDI8K01",
+          "title": "Hardware specifications and performance",
+          "description": "Explain how hardware specifications affect performance and select appropriate hardware for particular tasks and workloads",
+          "y_goal": "Students explain how hardware specifications affect performance and select appropriate hardware for given tasks and workloads.",
+          "level_key": "7-8"
+        },
+        {
+          "code": "AC9TDI8K02",
+          "title": "Wired and wireless networks",
+          "description": "Investigate how data is transmitted and secured in wired and wireless networks including the internet",
+          "y_goal": "Students explain how data is transmitted and secured across wired and wireless networks including the internet.",
+          "level_key": "7-8"
+        },
+        {
+          "code": "AC9TDI8K03",
+          "title": "Representing text, image and audio",
+          "description": "Investigate how digital systems represent text, image and audio data using integers",
+          "y_goal": "Students explain how digital systems use integers to represent text, image and audio data.",
+          "level_key": "7-8"
+        },
+        {
+          "code": "AC9TDI8K04",
+          "title": "Integer representation in binary",
+          "description": "Explain how and why digital systems represent integers in binary",
+          "y_goal": "Students explain how and why digital systems represent integers using binary.",
+          "level_key": "7-8"
+        }
+      ]
+    },
+    "9-10": {
+      "subject": "Digital Technologies",
+      "standards": [
+        {
+          "code": "AC9TDI10K01",
+          "title": "Access control in networked systems",
+          "description": "Investigate how hardware and software manage, control and secure access to data in networked digital systems",
+          "y_goal": "Students explain how hardware and software manage, control and secure access to data in networked digital systems.",
+          "level_key": "9-10"
+        },
+        {
+          "code": "AC9TDI10K02",
+          "title": "Content, structure and presentation",
+          "description": "Represent documents online as content (text), structure (markup) and presentation (styling) and explain why such representations are important",
+          "y_goal": "Students represent online documents as content, structure and presentation layers and explain why this separation is important.",
+          "level_key": "9-10"
+        },
+        {
+          "code": "AC9TDI10K03",
+          "title": "Data compression",
+          "description": "Investigate simple data compression techniques",
+          "y_goal": "Students investigate and explain simple data compression techniques and their purpose.",
+          "level_key": "9-10"
+        }
+      ]
+    }
+  },
+  "progression_threads": {
+    "description": "Concept dependency trees for Digital Technologies Knowledge and Understanding, organised by sub-strand. Foundation nodes are roots; children represent the next conceptual step.",
+    "strands": {
+      "digital_systems": {
+        "label": "Digital Systems",
+        "tree": [
+          {
+            "code": "AC9TDIFK01",
+            "children": [
+              {
+                "code": "AC9TDI2K01",
+                "children": [
+                  {
+                    "code": "AC9TDI4K01",
+                    "children": [
+                      {
+                        "code": "AC9TDI4K02",
+                        "children": [
+                          {
+                            "code": "AC9TDI6K01",
+                            "children": [
+                              {
+                                "code": "AC9TDI6K02",
+                                "children": [
+                                  {
+                                    "code": "AC9TDI8K01",
+                                    "children": [
+                                      {
+                                        "code": "AC9TDI10K01",
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "code": "AC9TDI8K02",
+                                    "children": [
+                                      {
+                                        "code": "AC9TDI10K01",
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "data_representation": {
+        "label": "Data Representation",
+        "tree": [
+          {
+            "code": "AC9TDIFK02",
+            "children": [
+              {
+                "code": "AC9TDI2K02",
+                "children": [
+                  {
+                    "code": "AC9TDI4K03",
+                    "children": [
+                      {
+                        "code": "AC9TDI6K03",
+                        "children": [
+                          {
+                            "code": "AC9TDI6K04",
+                            "children": [
+                              {
+                                "code": "AC9TDI8K03",
+                                "children": [
+                                  {
+                                    "code": "AC9TDI8K04",
+                                    "children": [
+                                      {
+                                        "code": "AC9TDI10K02",
+                                        "children": [
+                                          {
+                                            "code": "AC9TDI10K03",
+                                            "children": []
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
